@@ -37,7 +37,7 @@ namespace WindowsFormsApplication1
                 {
                     connsql.Close();
                 }
-                MessageBox.Show("Thanh cong");
+                MessageBox.Show("Thanh cong cai gi");
             }
             catch (Exception ex)    
             {
